@@ -1,0 +1,17 @@
+{
+  "name": "capital-c",
+  "version": "0.0.1",
+  "description": "Magically composable functions!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "repository": "mvaldesdeleon/capital-c",
+  "keywords": [
+    "function",
+    "composition",
+    "proxy"
+  ],
+  "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+  "license": "MIT"
+}
